@@ -2,7 +2,7 @@
 
 Design test for the ExamAce homepage (first three sections: hero with subject picker, how it works, example feedback).
 
-- `/` — Variant A (final): Titan-style hero, four-step rail, feedback specimen.
-- `/variant-b/` — Variant B: preloader, full-bleed hero with glass picker, scroll-scrubbed steps, tap-to-reveal examiner notes.
+- `/` — Variant B: preloader, full-bleed hero with glass picker, scroll-scrubbed steps, tap-to-reveal examiner notes.
+- `/variant-a/` — Variant A: Titan-style hero, four-step rail, feedback specimen.
 
 Static HTML, no build step. Photos are from Unsplash and embedded in the pages.
